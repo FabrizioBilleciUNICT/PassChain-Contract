@@ -1,0 +1,10 @@
+{
+  "name": "decoder",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node decoder.js"
+  },
+  "dependencies": {
+    "abi-decoder": "^2.2.2"
+  }
+}
